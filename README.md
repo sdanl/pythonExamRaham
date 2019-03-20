@@ -1,5 +1,5 @@
 # pythonExamRaham
-make sure all imported libraries are installed
-run recieve_app
-run send_app
-enter requested values (optional- has default values)
+1)make sure all imported libraries are installed
+2)run recieve_app
+3)run send_app
+4)enter requested values (optional- has default values)
